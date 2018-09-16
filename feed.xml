@@ -3,7 +3,7 @@
     <title>TranTien.net</title>
     <link href="http://trantien.net/feed.xml" rel="self" />
     <link href="http://trantien.net" />
-    <updated>2018-09-17T03:28:10+07:00</updated>
+    <updated>2018-09-17T03:32:08+07:00</updated>
     <author>
         <name>tran_tien</name>
     </author>
@@ -53,14 +53,14 @@
         <author>
             <name>tran_tien</name>
         </author>
-        <link href="http://trantien.net/Around-the-Rim/"/>
-        <id>http://trantien.net/Around-the-Rim/</id>
+        <link href="http://trantien.net/around-the-rim/"/>
+        <id>http://trantien.net/around-the-rim/</id>
 
-        <updated>2018-09-16T02:36:59+07:00</updated>
+        <updated>2018-09-17T03:32:02+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://trantien.net/media/posts/12/" alt="" />
-                    Porcelain 2013 I’ve cut out a total of 19 figures from the rim. Some of them are on top. Some of them are at the bottom. …thinking about what sets them apart… https://johnsontsang.wordpress.com/2013/12/24/around-the-rim/
+                    Porcelain 2013 I’ve cut out a total of 19 figures from the rim. Some of them are on top. Some of them are at the bottom. …thinking about what sets them apart… Johnsontsang
                 ]]>
             </summary>
         <content type="html">
@@ -105,7 +105,7 @@
 </div>
 </figcaption>
 </figure>
-<p>https://johnsontsang.wordpress.com/2013/12/24/around-the-rim/</p>
+<p><a href="https://johnsontsang.wordpress.com/2013/12/24/around-the-rim/" target="_blank" rel="noopener noreferrer">Johnsontsang</a></p>
             ]]>
         </content>
     </entry>
